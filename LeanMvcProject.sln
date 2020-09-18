@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanMvcProject", "LeanMvcProject.csproj", "{B5213380-2258-469B-9E87-8F3B9969486D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{079FC88D-DB8A-4632-A164-C785E4C4DC70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{568201AE-0106-44AE-B1F8-8795C57E947C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5213380-2258-469B-9E87-8F3B9969486D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5213380-2258-469B-9E87-8F3B9969486D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5213380-2258-469B-9E87-8F3B9969486D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5213380-2258-469B-9E87-8F3B9969486D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D51FFC93-E59F-4201-BCC7-2E9CE129DE62}
+	EndGlobalSection
+EndGlobal
